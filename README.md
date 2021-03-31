@@ -37,17 +37,11 @@ VAT's are way more optimized then keyframed animations so if you are planning on
 
 ![output](https://i.imgur.com/tzpKmxJ.png)
 
-5 Start up Touchdesigner
+5 Start up Touchdesigner and recreate this layout
 
-6 import Mesh / Textures
-
-7 Make an GLSL shader with the decypher.glsl file
+![](https://i.imgur.com/EvA0z66.png)
 
 ![TD]( https://user-images.githubusercontent.com/12793209/113221573-9ac77280-9285-11eb-8caa-4cbf8c7156f9.mp4 )
-
-8 parameters
-
-![para](https://i.imgur.com/L7dDYmD.png)
 
 9 Finish!
 
