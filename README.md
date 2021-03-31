@@ -25,7 +25,7 @@ VAT's are way more optimized then keyframed animations so if you are planning on
 
 ![blender](https://i.imgur.com/0KIPJ8p.gif)
 
-​	2 Go in to the scripting layout in blender
+​	2 Go in to the scripting layout in blender and import the GenerateVAT.py script
 
 ​	2 Change the parameters at the top of the script.
 
