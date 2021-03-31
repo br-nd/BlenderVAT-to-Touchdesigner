@@ -4,7 +4,7 @@
 
 **This is not done yet I will finish this in the next few days**
 
-In this repository you can find the code to export Vertex Animation Textures in Blender using Python. Also the code to convert them into animation again in TouchDesigner. 
+In this repository you can find the code to export Vertex Animation Textures in Blender using Python. Also the code to convert them into animations again in TouchDesigner. 
 
 This workflow will also probably work for Unreal and Unity you just need to edit the shader a bit.
 
