@@ -55,10 +55,8 @@ void main()
 	oVert.cameraIndex = cameraIndex;
 	oVert.worldSpacePos.xyz = worldSpacePos.xyz;
 	
-	// 色を設定
 	oVert.color = TDInstanceColor(vec4(1,1,1,1));
 	
-	// 法線を設定
 	vec3 worldSpaceNorm = normalize(TDDeformNorm(norm));
 	
 	oVert.worldSpaceNorm.xyz = worldSpaceNorm;
