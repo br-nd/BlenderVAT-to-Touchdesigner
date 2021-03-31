@@ -43,11 +43,13 @@ VAT's are way more optimized then keyframed animations so if you are planning on
 
 ![](https://i.imgur.com/EvA0z66.png)
 
-![TD](https://i.imgur.com/l10CD22.gif)
+
 
 7 Edit the parameters
 
 8 Finish!
+
+![TD](https://i.imgur.com/l10CD22.gif)
 
 ---
 
