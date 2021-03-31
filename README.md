@@ -49,6 +49,15 @@ VAT's are way more optimized then keyframed animations so if you are planning on
 
 8 Finish!
 
+---
+
+#### References
+
+https://medium.com/tech-at-wildlife-studios/texture-animation-techniques-1daecb316657#
+
+https://github.com/JoshRBogart/unreal_tools
+
+![Martin Donald](https://www.youtube.com/watch?v=NQ5Dllbxbz4&) Made a great Tutorial!
 
 
 
