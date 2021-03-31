@@ -23,7 +23,7 @@ VAT's are way more optimized then keyframed animations so if you are planning on
 
 ​	1 Make an animation
 
-![blender](https://imgur.com/Smv381t.mp4)
+![blender](images/BLENDER.mp4)
 
 ​	2 Go in to the scripting layout in blender
 
@@ -43,7 +43,7 @@ VAT's are way more optimized then keyframed animations so if you are planning on
 
 ![](https://i.imgur.com/EvA0z66.png)
 
-![TD](https://i.imgur.com/KU2TxG1.mp4)
+![TD](images/TD.mp4)
 
 7 Edit the parameters
 
