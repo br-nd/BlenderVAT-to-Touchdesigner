@@ -57,7 +57,7 @@ https://medium.com/tech-at-wildlife-studios/texture-animation-techniques-1daecb3
 
 https://github.com/JoshRBogart/unreal_tools
 
-![Martin Donald](https://www.youtube.com/watch?v=NQ5Dllbxbz4&) Made a great Tutorial!
+https://www.youtube.com/watch?v=NQ5Dllbxbz4
 
 
 
